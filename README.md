@@ -1,4 +1,5 @@
 ---LIDAH BUAYA---
+
 A. Pengertian
    Lidah buaya (Aloe vera) adalah spesies tumbuhan dengan daun berdaging tebal dari genus Aloe. Tumbuhan ini bersifat menahun, berasal dari Jazirah Arab, dan tanaman liarnya telah menyebar ke kawasan beriklim tropis, semi-tropis, dan kering di berbagai belahan dunia. Tanaman lidah buaya banyak dibudidayakan untuk pertanian, pengobatan, dan tanaman hias, dan dapat juga ditanam di dalam pot. Lidah buaya banyak ditemukan dalam produk seperti minuman, olesan untuk kulit, kosmetika, atau obat luar untuk luka bakar. Walaupun banyak digunakan secara tradisional maupun komersial, uji klinis terhadap tanaman ini belum membuktikan keefektifan atau keamanan ekstrak lidah buaya untuk pengobatan maupun kecantikan.
    
@@ -36,6 +37,7 @@ G. Sifat Racun
    
    
 ---DAUN BELIMBING WULUH---
+
     Belimbing sayur (dikenal pula dengan nama belimbing wuluh, belimbing buluh, belimbing botol, belimbing besi, atau belimbing asam) (Averrhoa Bilimbi Linn) merupakan sejenis pohon kecil yang diperkirakan berasal dari Kepulauan Maluku, dan dikembangbiakkan serta tumbuh bebas di Indonesia, Filipina, Sri Lanka, Myanmar, dan Malaysia. Tumbuhan ini biasa ditanam di pekarangan untuk diambil buahnya yang memiliki rasa asam yang sering digunakan sebagai bumbu masakan dan campuran ramuan jamu.
  A. Deskripsi
     Belimbing adalah pohon buah yang tingginya mencapai 5 m. Batangnya tak begitu besar, bergaris tengah 30 cm. Ia kasar dan berbenjol-benjol, percabangannya sedikit, dan condong ke atas. Cabang mudanya berambut halus, seperti beledu dan berwarna cokelat muda. Daunnya tersusun dalam bentuk ganda. Bentuknya kecil, berbentuk telur, dan jumlahnya 21–45 cm. Daunnya termasuk majemuk, menyirip, dan ganjil. Anak daunnya bertangkai pendek, berbentuk bulat telur sampai jorong, ujungnya runcing, pangkalnya membulat, tepinya rata. Ukuran daunnya adalah: 2-10 cm × 1–3 cm. Ia berwarna hijau, dan permukaan bawahnya berwarna hijau muda. Pada setiap daun terdapat 11-37 anak daun yang berselang-seling atau setengah berpasangan dan berbentuk oval. Perbungaannya majemuk, dan tersusun dalam malai (panjangnya 5–20 cm). Berkelompok, keluar dari percabangan yang besar, kecil-kecil berbentuk bintang dan berwarna ungu kemerahan/merah saja. Buahnya termasuk buah buni, berbentuk bulat lonjong bersegi, panjangnya 4-6,5 cm, berwarna hijau kekuningan, berair banyak jika sudah masak dan rasanya asam. Bentuk biji bulat telur, gepeng.
