@@ -6,7 +6,7 @@ import cv2
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = './static/uploads/'
-model = load_model('Image Classification using CNN.h5')
+model = load_model('Model_Daun.h5')
 
 class_dict = {0: 'Lidah Buaya', 1: 'Belimbing Wuluh'}
 
